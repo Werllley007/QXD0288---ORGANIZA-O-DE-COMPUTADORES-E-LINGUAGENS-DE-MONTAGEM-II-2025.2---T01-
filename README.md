@@ -165,8 +165,39 @@
 </html>
 ```
 
-# 
+# Atividade de laboratório 
 
 ```bash
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3 style="color: #4682b4; margin: 30px 0 15px 0; border-top: 2px solid #ccc; padding-top: 15px;">🔬 Pr&aacute;ticas e Guias de Laborat&oacute;rio</h3>
+<div style="text-align: center; margin: 20px 0; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f7f7f7;">
+<p style="font-weight: bold; color: #4682b4; margin-bottom: 10px;">Guias Essenciais de Configura&ccedil;&atilde;o</p>
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/laborat%C3%B3rios/00%20-%20Lab_configuration_tftp.pdf" target="_blank"> 🛠️ Lab 00: Configura&ccedil;&atilde;o (TFTP) </a></p>
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/laborat%C3%B3rios/01%20-%20Lab_makefile.pdf" target="_blank"> 🔨 Lab 01: Guia de Makefile </a></p>
+<p style="font-weight: bold; color: #4682b4; margin-top: 15px; margin-bottom: 5px; border-top: 1px dashed #ccc; padding-top: 10px;">Pr&aacute;ticas de Programa&ccedil;&atilde;o ARM</p>
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/laborat%C3%B3rios/Lab01_GPIO.pdf" target="_blank"> 💡 Lab 01: Configura&ccedil;&atilde;o GPIO </a></p>
+</div>
+</body>
+</html>
+```
 
+# Atividade de laboratório
+
+```bash
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3 style="color: #4682b4; margin: 30px 0 15px 0; border-top: 2px solid #ccc; padding-top: 15px;">🔬 Pr&aacute;ticas e Guias de Laborat&oacute;rio</h3>
+<div style="text-align: center; margin: 20px 0; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f7f7f7;">
+<p style="font-weight: bold; color: #4682b4; margin-top: 5px; margin-bottom: 5px; padding-top: 10px;">Pr&aacute;ticas de Programa&ccedil;&atilde;o ARM</p>
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/laborat%C3%B3rios/Lab02_GPIO_output_input.pdf" target="_blank"> 💡 Lab 02: GPIO (Output/Input) </a></p>
+</div>
+</body>
+</html>
 ```
