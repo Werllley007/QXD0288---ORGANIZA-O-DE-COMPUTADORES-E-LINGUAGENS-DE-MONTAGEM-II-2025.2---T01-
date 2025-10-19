@@ -148,10 +148,21 @@
 </html>
 ```
 
-# 
+# Listas de revisão
 
 ```bash
-
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3 style="color: #4682b4; margin: 30px 0 15px 0; border-top: 2px solid #ccc; padding-top: 15px;">📝 Atividades e Listas de Exerc&iacute;cios</h3>
+<div style="text-align: center; margin: 20px 0; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f7f7f7;">
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/listas/Lista01.pdf" target="_blank"> 📋 Lista de Exerc&iacute;cios 01 </a></p>
+<p style="text-align: center; margin-bottom: 10px;"><a style="background-color: #4682b4; color: white; padding: 10px 15px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; font-weight: bold; min-width: 250px;" href="https://raw.githubusercontent.com/Werllley007/QXD0288---ORGANIZA-O-DE-COMPUTADORES-E-LINGUAGENS-DE-MONTAGEM-II-2025.2---T01-/main/listas/Lista02.pdf" target="_blank"> 📋 Lista de Exerc&iacute;cios 02 </a></p>
+</div>
+</body>
+</html>
 ```
 
 # 
